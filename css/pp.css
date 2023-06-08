@@ -3,23 +3,43 @@ html, body{
     padding: 0;
     background-color: #f2e3d5;
 }
-
-.menu{
+.couleur{
     position: fixed;
     z-index: 3;
     width: 100%;
     top: 0;
     filter: drop-shadow(0.5rem 0.2rem 1rem #201f1f9e);
-    background: #e2b190 none repeat scroll 0 0;
+    background: #937777 none repeat scroll 0 0;
+}
+.test{
+    background-color: #937777;
+    border-color: #937777;
+}
+.test:hover{
+    background-color: #665353;
+    border-color: #665353;
+}
+.da{
+    text-decoration: white;
+    font-size: 150%;
+}
+.da:hover{
+    text-decoration: white;
+    font-size: 150%;
+    background-color: #f2e3d5;
+}
+.da2 a{
+    font-size: 150%;
+    background-color: #f2e3d5;
+}
+.da2{
+    padding: 0%;
     background-color: black;
 }
-
-
-
-
-
-
-
+.dropdown-menu{
+    --bs-dropdown-padding-x: var(--bs-dropdown-padding-x);
+    border-radius: 10%;
+}
 
 
 
