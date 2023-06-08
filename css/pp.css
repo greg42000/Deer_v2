@@ -1,0 +1,45 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    background-color: #f2e3d5;
+}
+
+.menu{
+    position: fixed;
+    z-index: 3;
+    width: 100%;
+    top: 0;
+    filter: drop-shadow(0.5rem 0.2rem 1rem #201f1f9e);
+    background: #e2b190 none repeat scroll 0 0;
+    background-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.place{
+    margin-top: 1000%;
+}
